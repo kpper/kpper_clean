@@ -6,7 +6,7 @@ email: kpper@qq.com
 description: "Hey，我是kpper，HMI Software developer,这是我的利用 GitHub Pages 与 Jekyll 搭建的个人博客。欢迎来到小站，感受Hello world 最大的善意" #网站介绍
 keyword: "kpper的博客,kpper,GitHub,博客,Blog,HMI" #关键词
 url: "https://kpper.github.io/kpper_clean"          # your host, for absolute URL
-baseurl: "https://kpper.github.io/kpper_clean/"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://kpper.github.io/kpper_clean"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "kpper_clean" # you code repository
 author: kpper
 
