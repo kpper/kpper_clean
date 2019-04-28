@@ -4,7 +4,6 @@ title:      Hello My Blog
 subtitle:   写在前面
 date:       2019-04-23
 author:     kpper
-author:     Fe
 header-img: img/post-bg-rwd.jpg
 keywords_post:  "readme"
 categories: 随笔

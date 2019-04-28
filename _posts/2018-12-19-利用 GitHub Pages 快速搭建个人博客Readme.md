@@ -3,10 +3,11 @@ layout:     post
 title:      利用 GitHub Pages 快速搭建个人博客Readme
 subtitle:   转载
 date:       2018-12-19
-author:     fedemo
+author:     kpper
 header-img: img/post-bg-github-cup.jpg
 catalog: true
 categories: 教程
+#keywords_post:  "readme"
 #excerpt: 
 mathjax: true
 tags:
