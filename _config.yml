@@ -19,7 +19,7 @@ baidu_js_push: false
 # Sidebar settings侧边栏
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "感受Hello world 最大的善意!"
-sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: kpper_clean/img/avatar_p11179162.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings社交账号
