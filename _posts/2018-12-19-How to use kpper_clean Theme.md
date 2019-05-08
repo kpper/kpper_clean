@@ -1,21 +1,24 @@
 ---
 layout:     post
-title:      利用 GitHub Pages 快速搭建个人博客Readme
-subtitle:   转载
-date:       2018-12-19
+title:      How to use kpper_clean Theme
+subtitle:   （转载fedemo）利用 GitHub Pages 快速搭建个人博客
+date:       2019-05-05
 author:     kpper
-header-img: img/post-bg-github-cup.jpg
-catalog: true
-categories: 教程
-#keywords_post:  "readme"
-#excerpt: 
+categories: Blog.Note
 mathjax: true
 tags:
-    - Blog
+    -blog
+    -note
+#header-img: img/tiiltle.png
+#catalog: true
+#description:
+#excerpt: 
 ---
 
+<!--
 * content
 {:toc}
+-->
 
 >下面是博客的搭建教程  
 >从零开始,手把手教学,个人主页    
