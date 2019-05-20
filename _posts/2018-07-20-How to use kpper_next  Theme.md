@@ -3,12 +3,12 @@ layout:     post
 title:      How to use kpper_next  Theme
 subtitle:   Next Theme
 date:       2019-05-05
+updated:    2019-05-19
 author:     kpper
-categories: Blog.Note
+categories: jekyll
 mathjax: true
 tags:
-    -blog
-    -note
+    - blog
 #header-img: img/tiiltle.png
 #catalog: true
 #description:
